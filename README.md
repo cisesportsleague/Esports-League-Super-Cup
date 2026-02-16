@@ -17,7 +17,7 @@
 # Tournament Format
 Tournament contains following stages:
 
-- Open Qualifiers Stage - (Online - 27th of February - 2nd of March 2026)
+- Open Qualifiers Stage - (Online - Single Elimination BO1/BO3 for Semi-Final Matches - 27th of February - 2nd of March 2026)
 - Main Event Group Stage - Best 8 teams from Open Qualifiers (Online - 6 - 8th of March 2026 - 2 GSL BO3 Groups. Best 2 teams from each group advance to the play-off stage)
 - Main Event Play-off Stage - Best 4 teams from Main Event Group Stage (Online - 9th of March 2026 - Single Elimination BO3 with 3rd place decider. Grand-Final of tournament will be played on LAN in Moscow, 22nd of March 2026)
 
