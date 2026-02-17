@@ -1,7 +1,7 @@
 # Esports League Super Cup announcement and additional info
 
 <p align="center">
-  <img src="images/png.png" >
+  <img src="png/png.png" >
 </p>
 
 
